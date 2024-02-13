@@ -5,4 +5,4 @@
 Head to https://github.com/google-github-actions/release-please-action
 & copy the github action
 
-That should be all. I think
+Then create a personal access token with the name of the token in the action and attach it to the repo
