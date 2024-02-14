@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://github.com/tristan-valar/release-please/compare/v1.0.0...v2.0.0) (2024-02-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* npm init
+
+### Features
+
+* npm init ([857d3b0](https://github.com/tristan-valar/release-please/commit/857d3b01696d0a8511e48113b606f51f00fe3faa))
+* update readme ([cd80683](https://github.com/tristan-valar/release-please/commit/cd80683f75ee8be5e3d7989cf708818a15185c3b))
+
 ## 1.0.0 (2024-02-13)
 
 
