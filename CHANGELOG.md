@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/tristan-valar/release-please/compare/v2.0.0...v2.0.1) (2024-02-14)
+
+
+### Bug Fixes
+
+* updated release please to fix the pkg.json ([460e118](https://github.com/tristan-valar/release-please/commit/460e1181362481216a74e406969746c3c56248a1))
+
 ## [2.0.0](https://github.com/tristan-valar/release-please/compare/v1.0.0...v2.0.0) (2024-02-14)
 
 
