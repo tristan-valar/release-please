@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/tristan-valar/release-please/compare/v2.0.1...v2.1.0) (2024-02-14)
+
+
+### Features
+
+* new hello mum fn ([#1](https://github.com/tristan-valar/release-please/issues/1)) ([0d9293f](https://github.com/tristan-valar/release-please/commit/0d9293f9ec1e0793f010b140abe1e1b756dad85b))
+
 ## [2.0.1](https://github.com/tristan-valar/release-please/compare/v2.0.0...v2.0.1) (2024-02-14)
 
 
