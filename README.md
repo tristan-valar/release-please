@@ -7,3 +7,5 @@
 3. Add release-type node to auto update pkg.json
 
 ## Notes
+
+This is a great thing I think
